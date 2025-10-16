@@ -9,7 +9,7 @@ import javax.sql.rowset.serial.SerialException;
 import in.co.elearning.dto.ContentDTO;
 import in.co.elearning.exception.DuplicateRecordException;
 
-
+//test
 public interface ContentServiceInt {
 
 	public long add(ContentDTO dto) throws DuplicateRecordException;
